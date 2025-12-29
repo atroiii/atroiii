@@ -17,7 +17,7 @@ Além disso, tenho grande interesse em pesquisa e desenvolvimento de soluções 
 ### 🤖 Linguagens e Tecnologias
 
 <img 
-    align="left" 
+    align="center" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -25,7 +25,7 @@ Além disso, tenho grande interesse em pesquisa e desenvolvimento de soluções 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="CSS" 
     title="CSS"
     width="30px" 
@@ -33,7 +33,7 @@ Além disso, tenho grande interesse em pesquisa e desenvolvimento de soluções 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="C" 
     title="C"
     width="30px" 
@@ -41,7 +41,7 @@ Além disso, tenho grande interesse em pesquisa e desenvolvimento de soluções 
     src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="C++"
     title="C++" 
     width="30px" 
@@ -49,7 +49,7 @@ Além disso, tenho grande interesse em pesquisa e desenvolvimento de soluções 
     src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Java"
     title="Java" 
     width="30px" 
@@ -57,7 +57,7 @@ Além disso, tenho grande interesse em pesquisa e desenvolvimento de soluções 
     src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Arduino" 
     title="Arduino"
     width="30px" 
@@ -66,7 +66,7 @@ Além disso, tenho grande interesse em pesquisa e desenvolvimento de soluções 
 />
 
 <img 
-    align="left" 
+    align="center" 
     alt="Python" 
     title="Python"
     width="30px" 
