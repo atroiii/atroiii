@@ -77,16 +77,4 @@ Além disso, tenho grande interesse em pesquisa e desenvolvimento de soluções 
 <br/>
 <br/>
 
-## 📲 Let’s connect
 
-<div align="center">
-  <a href="https://instagram.com/hrs.allan" target="_blank">
-    <img src="https://www.instagram.com/arthur.troi/" height="35" alt="instagram logo"/>
-  </a>
-  <a href="mailto:arthurtroiii513@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
-  </a>
-  <a href="https://br.linkedin.com/in/allan-silva-a264b134b/" target="_blank">
-    <img src="https://www.linkedin.com/in/arthur-felipe-768552215/" height="35" alt="linkedin logo"/>
-  </a>
-</div>
