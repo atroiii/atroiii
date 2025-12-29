@@ -21,6 +21,12 @@ Além disso, tenho grande interesse em pesquisa e desenvolvimento de soluções 
 <p align="center">
   <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdyM2JlbmF1a2R0bDdhYW42OTNrb2EwdXRkZXZtazA3dGhkd2xyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bPCwGUF2sKjyE/giphy.gif" alt="Imagem">
 </p>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfelipe&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
 ## 📲vamos nos conectar
 <div align="center">
