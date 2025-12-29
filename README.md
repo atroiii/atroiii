@@ -34,3 +34,7 @@ Além disso, tenho grande interesse em pesquisa e desenvolvimento de soluções 
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
   </a>
 </div>
+
+<div align="center">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/gustavoobezerra/gustavoobezerra/output/github-contribution-grid-snake.svg" />
+</div>
