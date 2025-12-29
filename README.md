@@ -14,7 +14,7 @@ Além disso, tenho grande interesse em pesquisa e desenvolvimento de soluções 
 </p>
     
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,arduino,git,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,java,git,html,css" />
   
 </div>
 
