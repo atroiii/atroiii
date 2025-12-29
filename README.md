@@ -13,9 +13,6 @@ Além disso, tenho grande interesse em pesquisa e desenvolvimento de soluções 
   <img src="https://komarev.com/ghpvc/?username=hrsallan&style=for-the-badge&color=222831" />
 </p>
     
-
-### 🤖 Linguagens e Tecnologias
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,git" />
   
