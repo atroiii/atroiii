@@ -19,7 +19,7 @@ Além disso, tenho grande interesse em pesquisa e desenvolvimento de soluções 
 </div>
 <!-- GIF -->
 <p align="center">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHBpajF3NjFpamprbDRwbTc4MzBudXVtZ2ducHhncXRhd2RzMDZxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3AU8pfRXVNb3340rvh/giphy.gif" alt="Imagem">
 </p>
 
 ## 📲vamos nos conectar
