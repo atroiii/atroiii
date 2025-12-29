@@ -76,7 +76,7 @@ Além disso, tenho grande interesse em pesquisa e desenvolvimento de soluções 
 
 <br/>
 <br/>
----
+
 ## 📲vamos nos conectar
 <div align="center">
   <a href="https://www.instagram.com/arthur.troi/" target="_blank">
