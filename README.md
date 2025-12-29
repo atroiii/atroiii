@@ -2,7 +2,11 @@
 
 # 🧑‍💻 Arthur Felipe
 
-Me chamo Arthur Felipe, sou natural de Barbacena, MG. Concluí o curso técnico em Eletrônica, onde tive meu primeiro contato com programação por meio do Arduino. Atualmente, curso Ciência da Computação e sou apaixonado por tecnologia, robótica e diversas outras áreas dentro da computação.
+Me chamo Arthur Felipe, sou natural de Barbacena, MG. Durante o curso técnico em Eletrônica, tive meu primeiro contato com programação por meio do Arduino, experiência que despertou meu interesse por desenvolvimento e automação.
+
+Atualmente, curso Ciência da Computação. Sou apaixonado por tecnologia, robótica, inovação e as áreas que envolvem computação.
+
+Além disso, tenho grande interesse em pesquisa e desenvolvimento de soluções tecnológicas, buscando sempre aprender novas linguagens, ferramentas e metodologias. Meu objetivo é atuar em projetos que unam programação, eletrônica e inovação, contribuindo para o avanço da área e para a criação de soluções que impactem positivamente a sociedade.
 
 
     
@@ -70,13 +74,4 @@ Me chamo Arthur Felipe, sou natural de Barbacena, MG. Concluí o curso técnico 
 <br/>
 <br/>
 
-### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
