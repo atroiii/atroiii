@@ -19,7 +19,7 @@ Além disso, tenho grande interesse em pesquisa e desenvolvimento de soluções 
 </div>
 <!-- GIF -->
 <p align="center">
-  <img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHBpajF3NjFpamprbDRwbTc4MzBudXVtZ2ducHhncXRhd2RzMDZxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3AU8pfRXVNb3340rvh/giphy.gif" alt="Imagem">
+  <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdyM2JlbmF1a2R0bDdhYW42OTNrb2EwdXRkZXZtazA3dGhkd2xyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bPCwGUF2sKjyE/giphy.gif" alt="Imagem">
 </p>
 
 ## 📲vamos nos conectar
