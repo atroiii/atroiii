@@ -16,66 +16,10 @@ Além disso, tenho grande interesse em pesquisa e desenvolvimento de soluções 
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="center" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="center" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="center" 
-    alt="C" 
-    title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" 
-/>
-<img 
-    align="center" 
-    alt="C++"
-    title="C++" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" 
-/>
-<img 
-    align="center" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" 
-/>
-<img 
-    align="center" 
-    alt="Arduino" 
-    title="Arduino"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/?size=100&id=11670&format=png&color=000000" 
-/>
-
-<img 
-    align="center" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,git" />
+  
+</div>
 
 ## 📲vamos nos conectar
 <div align="center">
