@@ -4,7 +4,7 @@
 
 Me chamo Arthur Felipe, sou natural de Barbacena, MG. Durante o curso técnico em Eletrônica, tive meu primeiro contato com programação por meio do Arduino, experiência que despertou meu interesse por desenvolvimento e automação.
 
-Atualmente, curso Ciência da Computação. Sou apaixonado por tecnologia, robótica, inovação e as áreas dentro computação.
+Atualmente, curso Ciência da Computação. Sou apaixonado por tecnologia, robótica, inovação e áreas dentro computação.
 
 Além disso, tenho grande interesse em pesquisa e desenvolvimento de soluções tecnológicas, buscando sempre aprender novas linguagens, ferramentas e metodologias. Meu objetivo é atuar em projetos que unam programação, eletrônica e inovação, contribuindo para o avanço da área e para a criação de soluções que impactem positivamente a sociedade.
 
