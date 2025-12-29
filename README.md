@@ -8,10 +8,6 @@ Atualmente, curso Ciência da Computação. Sou apaixonado por tecnologia, robó
 
 Além disso, tenho grande interesse em pesquisa e desenvolvimento de soluções tecnológicas, buscando sempre aprender novas linguagens, ferramentas e metodologias. Meu objetivo é atuar em projetos que unam programação, eletrônica e inovação, contribuindo para o avanço da área e para a criação de soluções que impactem positivamente a sociedade.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%8D%20%20Barbacena%2C%20Brazil-222831?style=for-the-badge&logo=homeassistant&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=hrsallan&style=for-the-badge&color=222831" />
-</p>
     
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,java,git,html,css" />
