@@ -6,7 +6,7 @@ Me chamo Arthur Felipe, sou natural de Barbacena, MG. Durante o curso técnico e
 
 Atualmente, curso Ciência da Computação. Sou apaixonado por tecnologia, robótica, inovação e áreas dentro computação.
 
-Além disso, tenho grande interesse em pesquisa e desenvolvimento de soluções tecnológicas, buscando sempre aprender novas linguagens, ferramentas e metodologias. Meu objetivo é atuar em projetos que unam programação, eletrônica e inovação, contribuindo para o avanço da área e para a criação de soluções que impactem positivamente a sociedade.
+Além disso, tenho grande interesse em pesquisa e desenvolvimento de soluções tecnológicas, buscando sempre aprender novas linguagens, ferramentas e metodologias. Meu objetivo é atuar em projetos de programação, eletrônica e inovação, contribuindo para o avanço da área e para a criação de soluções que impactem positivamente a sociedade.
 
 <p align="center">
   <img src="https://img.shields.io/badge/%F0%9F%8C%8D%20%20Barbacena%2C%20Brazil-222831?style=for-the-badge&logo=homeassistant&logoColor=white" />
